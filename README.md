@@ -12,7 +12,7 @@
 ## Lecture Schedule
 
 ### Module Background: 
-Lecture | Reading Assignments |  |
+Lecture | Reading Assignments | Homeworks |
  -------------------------- | -------------------------- | -------------------------- |
  Lecture 1- Algorithms in Bioinformatics: Algorithms and Complexity | IBA, Ch. 2 | [HW1](https://drive.google.com/file/d/18WmJGa-R44PcrEAI1DEcOD8wNugG-I99/view?usp=sharing) |
  

@@ -26,3 +26,4 @@ Lecture 4- Next Generation Sequencing; read mapping; Suffix trees; BWT | BAL, Ch
 Lecture 5- read mapping-continued; De novo genome assembly | BAL, Ch. 9, 3 |  |
 Lecture 6- De novo genome assembly-continued; sequence alignment | BAL, Ch. 3, 5 |  HW5 |
 
+### Module C: Phylogenetic Analysis

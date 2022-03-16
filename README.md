@@ -22,7 +22,7 @@ Lecture | Reading Assignments | Homeworks |
 ### Module B: Genomic Analysis
 Lecture | Reading Assignments | Homeworks |
  -------------------------- | -------------------------- | -------------------------- |
-Lecture 4- Next Generation Sequencing; read mapping | BAL, Ch. 9 |  |
+Lecture 4- Next Generation Sequencing; read mapping; Suffix trees; BWT | BAL, Ch. 9 |  |
 Lecture 5- read mapping-continued; De novo genome assembly | BAL, Ch. 9, 3 |  |
 Lecture 6- De novo genome assembly-continued; sequence alignment | BAL, Ch. 3, 5 |  HW4 |
 

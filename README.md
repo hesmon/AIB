@@ -35,4 +35,6 @@ Lecture 12- Differential expression analysis; clustering analysis; pathway enric
 Lecture 13- Mathematical foundation of expectation-maximization and its applications to bioinformatics| | [HW6](https://drive.google.com/file/d/1O-WxmFB2Sr2CKaVXXTTRH91H4HW8Jljl/view?usp=sharing)  |
 
 ### Module D: Phylogenetic Analysis
+Lecture | Reading Assignments | Homeworks |
+ -------------------------- | -------------------------- | -------------------------- |
 Lecture 14- introduction to phylogenetic analysis; clustering methods |  |

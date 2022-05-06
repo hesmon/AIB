@@ -28,7 +28,10 @@ Lecture 6-7 De novo genome assembly-continued; sequence alignment | BAL, Ch. 3, 
 Lecture 8-10 Hidden Markov Models | BAL, Ch. 10 |  |
 
 ### Module C: RNA-Seq analysis
-Lecture 11-12 RNA sequencing; Splice aware alignment; Transcript quantification; Differential expression analysis; clustering analysis; pathway enrichment |  |
-Lecture 13 Mathematical foundation of expectation-maximization and its applications to bioinformatics| |  |
+Lecture | Reading Assignments | Homeworks |
+ -------------------------- | -------------------------- | -------------------------- |
+Lecture 11- RNA sequencing; Splice aware alignment; Transcript quantification|  |
+Lecture 12- Differential expression analysis; clustering analysis; pathway enrichment |  |
+Lecture 13- Mathematical foundation of expectation-maximization and its applications to bioinformatics| |  |
 
 ### Module D: Phylogenetic Analysis

@@ -38,3 +38,7 @@ Lecture 13- Mathematical foundation of expectation-maximization and its applicat
 Lecture | Reading Assignments | Homeworks |
  -------------------------- | -------------------------- | -------------------------- |
 Lecture 14- introduction to phylogenetic analysis; clustering methods |  |
+Lecture 15-16 Parsimony; Likelihood methods |  |
+Lecture 17-Structure learning; Bayesian inference |  |
+
+### Module E: Epigenetic Analysis
